@@ -5,7 +5,7 @@ gmaps_api_key: AIzaSyDy6XphVua57uoLzT_1F3KhvkfWIUqdqYg
 title: "Anchorage, AK: Get A Flu Shot"
 logo: "img/logo.png"
 locality: "Anchorage, Alaska"
-flu_info_link: http://www.flu.nc.gov/
+flu_info_link: http://vaccinefinder.org/
 start_latitude: 61.196287
 start_longitude: -149.904251
 state: Alaska
