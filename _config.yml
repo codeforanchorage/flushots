@@ -9,7 +9,7 @@ flu_info_link: http://vaccinefinder.org/
 start_latitude: 61.196287
 start_longitude: -149.904251
 state: Alaska
-api_endpoint: https://brigades.opendatanetwork.com/resource/f7d2-i6pp.json
+api_endpoint: https://brigades.opendatanetwork.com/resource/9xe7-zfmv.json
 socrata_app_token: 46C5V5L2v9fouMtYZu2ZlJZ9y
 about:
   Developed orginally by [Tom Kompare](http://about.me/tomkompare) in partnership with the [NC Department of Public Health (CDPH)](http://www.cityofchicago.org/city/en/depts/cdph.html). This map application is developed in partnership with [Code for Raleigh](http://www.codeforraleigh.com) and Socrata. 
